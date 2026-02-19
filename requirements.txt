@@ -1,0 +1,43 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# LangGraph (for agent workflows)
+langgraph
+
+# LLM Providers (choose one or more)
+langchain-openai
+langchain-groq
+langchain-anthropic
+
+# Vector Stores
+langchain-chroma
+chromadb
+
+# Document Loaders
+pypdf
+unstructured
+
+# Text Splitters
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Web Search Tools
+tavily-python
+
+# Prompt Hub
+langchainhub
+
+# Output Parsers & Structured Output
+pydantic
+
+# Utilities
+python-dotenv
+requests
+
+# Jupyter Notebook (optional)
+jupyter
+ipython
